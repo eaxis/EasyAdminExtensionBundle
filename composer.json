@@ -1,5 +1,5 @@
 {
-    "name": "eaxis/easyadmin-extension-bundle",
+    "name": "alterphp/easyadmin-extension-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides some extensions to easycorp/easyadmin-bundle",
     "keywords": ["backend", "admin", "generator"],
